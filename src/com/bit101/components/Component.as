@@ -181,7 +181,7 @@ package com.bit101.components
 			removeEventListener(Event.ENTER_FRAME, onInvalidate);
 			draw();
 			
-			trace("Draw---------------->", this.name, this);
+//			trace("Draw---------------->", this.name, this);
 		}
 		
 		

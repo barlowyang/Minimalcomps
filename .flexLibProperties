@@ -35,6 +35,7 @@
     <classEntry path="com.bit101.components.ScrollPane"/>
     <classEntry path="com.bit101.components.Slider"/>
     <classEntry path="com.bit101.components.Style"/>
+    <classEntry path="com.bit101.components.TFoldPanelBase"/>
     <classEntry path="com.bit101.components.Text"/>
     <classEntry path="com.bit101.components.TextArea"/>
     <classEntry path="com.bit101.components.UISlider"/>
@@ -46,6 +47,7 @@
     <classEntry path="com.bit101.components.WheelMenu"/>
     <classEntry path="com.bit101.components.Window"/>
     <classEntry path="com.bit101.utils.MinimalConfigurator"/>
+    <classEntry path="com.bit101.utils.Pen"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
